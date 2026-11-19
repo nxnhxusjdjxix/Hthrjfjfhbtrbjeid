@@ -1,0 +1,6 @@
+{
+  "name": "GOTG",
+  "description": "Guardians of the Galaxy Android port updated for Android 15-17",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
